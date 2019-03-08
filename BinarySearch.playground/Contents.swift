@@ -30,4 +30,5 @@ func binarySearch (sortedArray: [Int], key:Int) -> Bool {
 let sortedArray1 = [1, 4, 7, 12, 16, 19]
 let key = 4
 let found : Bool = binarySearch(sortedArray: sortedArray1, key: key)
-print("key \(key) found :  \(found)")
+print("key \(key) found :  \(found
+      
